@@ -1,3 +1,0 @@
-This is a test file. For the repo.
-Okay, added a bit to test commit.
-Added this after the assignment was accepted by student3.
